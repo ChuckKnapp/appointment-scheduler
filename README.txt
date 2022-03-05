@@ -1,4 +1,4 @@
-Title: ChuckKnappC195Project
+Title: Appointment Scheduler
 Application Version: v1
 Date: 1/2/2022
 
